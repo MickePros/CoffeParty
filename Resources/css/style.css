@@ -1,0 +1,40 @@
+body{
+    background-color: burlywood;
+}
+
+header #logo {
+    display: inline-block;
+}
+
+header h1 {
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+div.product {
+    background-color: white;
+}
+
+h2.product.title {
+    font-size: large;
+}
+
+span.price{
+    display: block;
+}
+
+span.price.old {
+    text-decoration: line-through;
+}
+
+span.price.sale {
+    color: red;
+}
+
+nav{
+    background-color: wheat;
+}
+
+footer{
+    background-color: darkkhaki;
+}
